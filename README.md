@@ -5,7 +5,7 @@ As of right now, Powercord is in *very* early stages of development, so feel fre
 # Installation
 See the [installation page of the Powercord Wiki](https://github.com/powercord-org/power-Cord/wiki/Installation).
 
-# How can I install Powercord on Stable or PTB?
+# How can I install power Cord on Stable or PTB?
 You can't. We internally discussed about supporting all Discord channels and even ran an experiment about it, but that didn't give great results.
 power Cord was not able to run in some scenarios due to the huge internal differences and made the whole client unusable (crash on start).
 
