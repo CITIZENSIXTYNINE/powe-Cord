@@ -1,9 +1,9 @@
 # power Cord
 power Cord is a lightweight client mod focused on simplicity and performance.  
-As of right now, Powercord is in *very* early stages of development, so feel free to join [this server](https://discord.gg/gs4ZMbBfCh) for any questions.
+As of right now, power Cord is in *very* early stages of development, so feel free to join [this server](https://discord.gg/gs4ZMbBfCh) for any questions.
 
 # Installation
-See the [installation page of the Powercord Wiki](https://github.com/powercord-org/power-Cord/wiki/Installation).
+See the [installation page of the power Cord Wiki](https://github.com/powercord-org/power-Cord/wiki/Installation).
 
 # How can I install power Cord on Stable or PTB?
 You can't. We internally discussed about supporting all Discord channels and even ran an experiment about it, but that didn't give great results.
